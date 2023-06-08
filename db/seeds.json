@@ -1,53 +1,102 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Product 1",
-            "description": "Product 1 description",
-            "category": "Product 1 category",
-            "quantity": 10
-        },
-        {
-            "id": 2,
-            "name": "Product 2",
-            "description": "Product 2 description",
-            "category": "Product 2 category",
-            "quantity": 12
-        },
-        {
-            "id": 3,
-            "name": "Product 3",
-            "description": "Product 3 description",
-            "category": "Product 3 category",
-            "quantity": 20
-        },
-        {
-            "id": 4,
-            "name": "Product 4",
-            "description": "Product 4 description",
-            "category": "Product 4 category",
-            "quantity": 40
-        },
-        {
-            "id": 5,
-            "name": "Product 5",
-            "description": "Product 5 description",
-            "category": "Product 5 category",
-            "quantity": 50
-        },
-        {
-            "id": 6,
-            "name": "Product 6",
-            "description": "Product 6 description",
-            "category": "Product 6 category",
-            "quantity": 60
-        },
-        {
-            "id": 7,
-            "name": "Product 7",
-            "description": "Product 7 description",
-            "category": "Product 7 category",
-            "quantity": 7
-        }
-    ]
+  "products": [
+    {
+      "name": "Leather Recliner Sofa",
+      "description": "Elegant and comfortable leather sofa",
+      "category": "Furniture",
+      "quantity": "25",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Floor rug",
+      "description": "Handmade tufted rug",
+      "category": "Decor",
+      "quantity": "19"
+    },
+    {
+      "id": 3,
+      "name": "Canvas Set",
+      "description": "3 sets of abstract line color paintings.",
+      "category": "Decor",
+      "quantity": "8"
+    },
+    {
+      "id": 4,
+      "name": "Flush Lights",
+      "description": "Round flush mount light.",
+      "category": "Lighting",
+      "quantity": "15"
+    },
+    {
+      "id": 5,
+      "name": "Curved Mirror",
+      "description": "Irregular asymmetric curved mirror.",
+      "category": "Mirrors",
+      "quantity": "7"
+    },
+    {
+      "id": 6,
+      "name": "Hanging lights",
+      "description": "Loft suspended glass pendant light fixtures",
+      "category": "Lighting",
+      "quantity": "1"
+    },
+    {
+      "name": "Test product 1",
+      "description": "Test product 1 description",
+      "category": "Test product 1 category",
+      "quantity": "10",
+      "id": 7
+    },
+    {
+      "name": "Test product 1",
+      "description": "Test product 1 description",
+      "category": "Test product 1 category",
+      "quantity": "10",
+      "id": 8
+    },
+    {
+      "name": "test",
+      "description": "test",
+      "category": "test",
+      "quantity": "1",
+      "id": 9
+    },
+    {
+      "name": "test",
+      "description": "test",
+      "category": "test",
+      "quantity": "1",
+      "id": 10
+    },
+    {
+      "name": "test",
+      "description": "test",
+      "category": "test",
+      "quantity": "1",
+      "id": 11
+    },
+    {
+      "name": "Product",
+      "description": "Maelezo",
+      "category": "category",
+      "quantity": "10",
+      "id": 12
+    },
+    {
+      "name": "iphone 14",
+      "description": "Description of iphone",
+      "category": "Phone",
+      "quantity": "8",
+      "id": 13
+    },
+    {
+      "name": "Dexter",
+      "description": "Dexter description",
+      "category": "Person",
+      "quantity": "1",
+      "id": 14
+    }
+  ]
 }
